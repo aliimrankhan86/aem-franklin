@@ -247,5 +247,5 @@ main .section {
 
 /* section metadata */
 main .section.highlight {
-  background-color: red;
+  background-color: blue;
 }
